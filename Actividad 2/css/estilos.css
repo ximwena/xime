@@ -1,0 +1,21 @@
+/*
+Descripcion:Fecha
+Autor:Alondra Ximena Gonzalez Romero
+Fecha:26/10/2022
+*/
+body{
+    background-color: aqua;
+}
+
+.fecha{
+    margin-top: 20px;
+    margin-left: 20px;
+} 
+
+
+.h2{
+    font-size: large;
+    font-style: italic;
+    margin-top: 20px;
+    margin-left: 20px;
+}
