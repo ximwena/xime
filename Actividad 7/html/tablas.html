@@ -1,0 +1,32 @@
+<!-- 
+    Descripcion: tablas
+    Autor: Alondra Ximena Gonzalez Romero
+    Fecha: 24/10/2022
+ -->
+ <!DOCTYPE html>
+ <html lang="es">
+     <head>
+         <meta charset="UTF-8">
+         <meta http-equiv="X-UA-Compatible" content="IE=edge">
+         <title>Generando tabla</title>
+         <link rel="stylesheet" href="../css/estilos.css">
+     </head>
+     <body>
+         <form action="../php/tabla.php" method="get">
+             <center>
+         <h1> Generador de tablas </h1> 
+         <br>
+         <hr>
+         <br>
+         <h4>
+         Filas:
+         <input type="number" name="renglon" id="renglon" min="0" max="120">
+         Columnas:
+         <input type="number" name="columna" id="columna" min="0" max="120">
+         </h4>
+         <br>
+         <br>
+         <input type="submit" value="Generar">
+     </center>
+     </body>
+ </html>
