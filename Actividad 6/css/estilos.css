@@ -1,0 +1,19 @@
+/* 
+Autor:Alondra Ximena Gonzalez Romero
+Descripcion:Componente los datos de formulario
+Fecha:12 de Octubre
+ */
+
+ body{
+background-color: bisque;
+ }
+
+ .Formulario{
+    color: darkviolet;
+    font-family: Cooper Black;
+}
+
+.titulo {
+    color: burlywood;
+    font-family: Bradley Hand ITC;
+}
